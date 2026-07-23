@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Demo Track 1 - Synth Instrumental",
+        "url": "https://soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80",
+        "added_by": "Zapspeed Team",
+        "date": "2026-07-23 12:00:00"
+    },
+    {
+        "name": "Demo Track 2 - Ambient Sound",
+        "url": "https://w3schools.com/html/horse.mp3",
+        "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80",
+        "added_by": "Zapspeed Team",
+        "date": "2026-07-23 12:05:00"
+    },
+    {
+        "name": "Demo Track 3 - Audio Test Frequency",
+        "url": "https://soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80",
+        "added_by": "Zapspeed Team",
+        "date": "2026-07-23 12:10:00"
+    }
+]
